@@ -5,7 +5,7 @@ Alonzo Roman
 
 ## Table of Contents
 * [Summary](#Summary)
-* [Code](#Code)
+* [Code](#Code-Snippet)
 * [Install](#Install)
 * [Video](#Video)
 * [Technologies](#Technologies)
